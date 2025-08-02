@@ -1,1 +1,1 @@
-# freshresbatch-oct16
+# This repo is used fordevops practice
