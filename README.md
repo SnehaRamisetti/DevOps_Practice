@@ -1,1 +1,1 @@
-# This repo is used fordevops practice
+# This repo is used for devops practice
